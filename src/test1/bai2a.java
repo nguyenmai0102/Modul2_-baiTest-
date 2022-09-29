@@ -64,12 +64,13 @@ public class bai2a {
                         }
                         ;
                     }
-                    while (true) ;
+
             }
 
-        }
+        }while (true) ;
+
     }
-    }
+}
 
 
 
